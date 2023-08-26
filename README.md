@@ -2,7 +2,7 @@
 
 ### Welcome to my Github profile!
 
-My name is Luis Valdenegro and I am immersed in the exciting world of computing and telecommunications and I am committed to my area.
+My name is Luis Valdenegro and I'm immersed in the exciting world of computing and telecommunications and I'm committed to my area.
 
 ---
 
