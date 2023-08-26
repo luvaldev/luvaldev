@@ -1,16 +1,32 @@
-### Hi there 👋
+# :bookmark_tabs: Ciao!
 
-<!--
-**luvaldev/luvaldev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Welcome to my Github profile!
 
-Here are some ideas to get you started:
+My name is Luis Valdenegro and I am immersed in the exciting world of computing and telecommunications and I am committed to my area.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### :wrench: Skills:
+
+<p>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=cpp"/>
+    <p>
+    <img src="https://skillicons.dev/icons?i=vscode,photoshop,xd"/>
+  </a>
+</p>
+
+### ✅ Currently I'm learning:
+
+<p>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,java,javascript,html"/>
+  </a>
+</p>
+
+---
+
+**Arrivederci** :package:
+
+
+
