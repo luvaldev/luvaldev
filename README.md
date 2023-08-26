@@ -25,12 +25,14 @@ My name is Luis Valdenegro and I'm immersed in the exciting world of computing a
 </p>
 
 ---
+**Networks**
+
 <a href="https://www.instagram.com/lwchito/">
     <img src="https://skillicons.dev/icons?i=instagram"/>
   </a>
   <p>
     
-**Arrivederci** :package:
+**Arrivederci :)** :package:
 
 
 
