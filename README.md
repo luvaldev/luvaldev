@@ -16,7 +16,7 @@ My name is Luis Valdenegro and I'm immersed in the exciting world of computing a
   </a>
 </p>
 
-### ✅ Currently I'm learning:
+### 📕 Currently I'm learning:
 
 <p>
   <a href="https://skillicons.dev">
