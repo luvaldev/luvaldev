@@ -12,7 +12,7 @@ My name is Luis Valdenegro and I'm immersed in the exciting world of computing a
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=c,cpp,java"/>
     <p>
-    <img src="https://skillicons.dev/icons?i=vscode,photoshop,xd"/>
+    <img src="https://skillicons.dev/icons?i=vscode,photoshop,xd,figma"/>
   </a>
 </p>
 
