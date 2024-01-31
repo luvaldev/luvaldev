@@ -16,6 +16,8 @@ My name is Luis Valdenegro and I'm immersed in the exciting world of computing a
   </a>
 </p>
 
+---
+
 ### 📕 Currently I'm learning:
 
 <p>
@@ -26,13 +28,6 @@ My name is Luis Valdenegro and I'm immersed in the exciting world of computing a
 
 ---
 
-<h3>Networks</h3>
-
-<p>
-  <a href="https://www.instagram.com/lwchito/">
-    <img src="https://skillicons.dev/icons?i=instagram"/>
-  </a>
-</p>
     
 **Arrivederci** :package:
 
