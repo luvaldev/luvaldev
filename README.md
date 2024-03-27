@@ -10,7 +10,7 @@ My name is Luis Valdenegro and I'm immersed in the exciting world of computing a
 
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp"/>
+    <img src="https://skillicons.dev/icons?i=c,cpp,java"/>
     <p>
     <img src="https://skillicons.dev/icons?i=vscode,photoshop,xd,figma"/>
   </a>
@@ -22,7 +22,7 @@ My name is Luis Valdenegro and I'm immersed in the exciting world of computing a
 
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,javascript,html,css,java"/>
+    <img src="https://skillicons.dev/icons?i=python,javascript,html,css"/>
   </a>
 </p>
 
