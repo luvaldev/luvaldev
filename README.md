@@ -22,7 +22,7 @@ My name is Luis Valdenegro and I'm immersed in the exciting world of computing a
 
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,java,javascript,html,css"/>
+    <img src="https://skillicons.dev/icons?i=python,java,javascript,html,css,c#"/>
   </a>
 </p>
 
