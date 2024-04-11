@@ -28,6 +28,15 @@ My name is Luis Valdenegro and I'm immersed in the exciting world of computing a
 
 ---
 
+<p>
+  <a href="https://instagram.com/lwchito/">
+    <img src="https://skillicons.dev/icons?i=instagram"/>
+  </a>
+  <a href="https://twitter.com/Luvaldev/">
+    <img src="https://skillicons.dev/icons?i=twitter"/>
+  </a>
+</p>
+
     
 **Arrivederci** ☠️
 
