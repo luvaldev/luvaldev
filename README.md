@@ -1,4 +1,4 @@
-# :bookmark_tabs: Ciao!
+<h2> Ciao ! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 
 ### Welcome to my Github profile!
 
@@ -20,25 +20,47 @@ My name is Luis Valdenegro and I'm immersed in the exciting world of computing a
 
 ### 📕 Currently I'm learning:
 
-<p>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cs,python,html,js,css"/>
-  </a>
-</p>
+<table>
+  <tbody>
+    <tr valign="top">
+      <td width="25%" align="center">
+        <span>Html </span><br><br><br>
+        <img height="64px" src="https://skillicons.dev/icons?i=html">
+      </td>
+      <td width="25%" align="center">
+        <span>Css </span><br><br><br>
+        <img height="64px" src="https://skillicons.dev/icons?i=css">
+      </td>
+      <td width="25%" align="center">
+        <span>JavaScrip</span><br><br><br>
+        <img height="64px" src="https://skillicons.dev/icons?i=js">
+      </td>
+      <td width="25%" align="center">
+        <span>NodeJs </span><br><br><br>
+        <img height="64px" src="https://skillicons.dev/icons?i=nodejs">
+      </td>
+    </tr>
+  </tbody>
+</table>
 
 ---
 
-<p>
-  <a href="https://instagram.com/lwchito/">
-    <img src="https://skillicons.dev/icons?i=instagram"/>
-  </a>
-  <a href="https://twitter.com/Luvaldev/">
-    <img src="https://skillicons.dev/icons?i=twitter"/>
-  </a>
-</p>
 
-    
-**Arrivederci** ☠️
+---
+
+### 🌐 Networks:
+
+````bash
+> help --contact
+> instagram: lwchito
+> github: luvaldev
+> twitter: Luvaldev
+> page: luisvaldenegro.dev
+````
+![bottom.png](https://raw.githubusercontent.com/iCharlesZ/FigureBed/master/img/readme-bottom.png)
+
+---
+⭐️ From [@luvaldev](https://github.com/luvaldev)
 
 
 
