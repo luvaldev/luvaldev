@@ -45,9 +45,6 @@ My name is Luis Valdenegro and I'm immersed in the exciting world of computing a
 
 ---
 
-
----
-
 ### 🌐 Networks:
 
 ````bash
