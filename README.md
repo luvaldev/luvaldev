@@ -23,21 +23,25 @@ My name is Luis Valdenegro and I'm immersed in the exciting world of computing a
 <table>
   <tbody>
     <tr valign="top">
-      <td width="25%" align="center">
+      <td width="20%" align="center">
         <span>Html </span><br><br><br>
         <img height="64px" src="https://skillicons.dev/icons?i=html">
       </td>
-      <td width="25%" align="center">
+      <td width="20%" align="center">
         <span>Css </span><br><br><br>
         <img height="64px" src="https://skillicons.dev/icons?i=css">
       </td>
-      <td width="25%" align="center">
-        <span>JavaScrip</span><br><br><br>
+      <td width="20%" align="center">
+        <span>JavaScript</span><br><br><br>
         <img height="64px" src="https://skillicons.dev/icons?i=js">
       </td>
-      <td width="25%" align="center">
+      <td width="20%" align="center">
         <span>NodeJs </span><br><br><br>
         <img height="64px" src="https://skillicons.dev/icons?i=nodejs">
+      </td>
+      <td width="20%" align="center">
+        <span>Astro </span><br><br><br>
+        <img height="64px" src="https://skillicons.dev/icons?i=astro">
       </td>
     </tr>
   </tbody>
