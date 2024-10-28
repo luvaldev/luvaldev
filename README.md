@@ -1,10 +1,4 @@
-<h2> Ciao ! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
-
-### Welcome to my Github profile!
-
-My name is Luis Valdenegro and I'm immersed in the exciting world of computing and telecommunications and I'm committed to my area.
-
----
+<h2> Ciao ! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"> Welcome to my Github profile! </h2> 
 
 ### :wrench: Skills:
 
