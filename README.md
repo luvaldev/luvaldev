@@ -4,9 +4,9 @@
 
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp,java"/>
+    <img src="https://skillicons.dev/icons?i=java,c,cpp"/>
     <p>
-    <img src="https://skillicons.dev/icons?i=vscode,photoshop,xd,figma,obsidian"/>
+    <img src="https://skillicons.dev/icons?i=vscode,figma,obsidian,photoshop,xd"/>
   </a>
 </p>
 
