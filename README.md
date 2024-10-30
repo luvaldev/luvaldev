@@ -1,5 +1,9 @@
 <h2> Ciao ! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"> Welcome to my Github profile! </h2> 
 
+![Proyecto nuevo](https://github.com/user-attachments/assets/e422d4e3-ba7d-4b61-a60a-078eb9e3c873)
+
+
+
 ### :wrench: Skills:
 
 <p>
