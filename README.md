@@ -1,5 +1,10 @@
 <h2> Ciao ! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"> Welcome to my Github profile! </h2> 
 
+<p align="center">
+  <img src="https://i.pinimg.com/originals/8e/dd/25/8edd25eaef846269172c3c8ed5cb1e08.gif" height="200" width="400"> 
+</p>
+
+
 ### :wrench: Skills:
 
 <p>
