@@ -56,7 +56,8 @@
 > twitter: Luvaldev
 > page: luisvaldenegro.dev
 ````
-![bottom.png](https://raw.githubusercontent.com/iCharlesZ/FigureBed/master/img/readme-bottom.png)
+
+![readme-bottom](https://github.com/user-attachments/assets/e02ffa17-ec39-4248-b8a8-e648492a5a6a)
 
 ---
 ⭐️ From [@luvaldev](https://github.com/luvaldev)
