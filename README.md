@@ -56,8 +56,10 @@
 > twitter: Luvaldev
 > page: luisvaldenegro.dev
 ````
-
+<!-- 
 ![readme-bottom](https://github.com/user-attachments/assets/e02ffa17-ec39-4248-b8a8-e648492a5a6a)
+ -->
+<img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" alt="Github Stats" />
 
 ---
 ⭐️ From [@luvaldev](https://github.com/luvaldev)
