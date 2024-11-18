@@ -1,4 +1,7 @@
-<h2> Ciao ! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"> Welcome to my Github profile! </h2> 
+<h2> Ciao ! <img src="https://github.com/user-attachments/assets/85207351-2e8c-41b9-8206-003d465ce90a" width="40"> Welcome to my Github profile! </h2> 
+<!-- 
+<img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">
+-->
 
 ### :wrench: Skills:
 
