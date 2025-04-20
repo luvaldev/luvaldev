@@ -7,7 +7,7 @@
 
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,c,cpp,astro,bun"/>
+    <img src="https://skillicons.dev/icons?i=java,bun,c,cpp,astro"/>
     <p>
     <img src="https://skillicons.dev/icons?i=vscode,figma,obsidian,photoshop,xd"/>
   </a>
@@ -37,6 +37,10 @@
       <td width="33%" align="center">
         <span>Linux </span><br><br><br>
         <img height="64px" src="https://skillicons.dev/icons?i=arch">
+      </td>
+      <td width="33%" align="center">
+        <span>Wireshark </span><br><br><br>
+        <img height="64px" src="resources/Apps-Wireshark-icon.png">
       </td>
     </tr>
   </tbody>
