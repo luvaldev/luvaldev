@@ -7,11 +7,21 @@
 
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,c,cpp"/>
+    <img src="https://skillicons.dev/icons?i=java,c,cpp,astro,bun"/>
     <p>
     <img src="https://skillicons.dev/icons?i=vscode,figma,obsidian,photoshop,xd"/>
   </a>
 </p>
+
+---
+### :wrench: Recent:
+
+<p>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,js,nodejs"/>
+  </a>
+</p>
+
 
 ---
 
@@ -20,33 +30,18 @@
 <table>
   <tbody>
     <tr valign="top">
-      <td width="16%" align="center">
-        <span>Html </span><br><br><br>
-        <img height="64px" src="https://skillicons.dev/icons?i=html">
+      <td width="33%" align="center">
+        <span>Docker </span><br><br><br>
+        <img height="64px" src="https://skillicons.dev/icons?i=docker">
       </td>
-      <td width="16%" align="center">
-        <span>Css </span><br><br><br>
-        <img height="64px" src="https://skillicons.dev/icons?i=css">
-      </td>
-      <td width="16%" align="center">
-        <span>JavaScript</span><br><br><br>
-        <img height="60px" src="https://skillicons.dev/icons?i=js">
-      </td>
-      <td width="16%" align="center">
-        <span>NodeJs </span><br><br><br>
-        <img height="64px" src="https://skillicons.dev/icons?i=nodejs">
-      </td>
-      <td width="16%" align="center">
-        <span>Bun </span><br><br><br>
-        <img height="64px" src="https://skillicons.dev/icons?i=bun">
-      </td>
-      <td width="16%" align="center">
-        <span>Astro </span><br><br><br>
-        <img height="64px" src="https://skillicons.dev/icons?i=astro">
+      <td width="33%" align="center">
+        <span>Linux </span><br><br><br>
+        <img height="64px" src="https://skillicons.dev/icons?i=arch">
       </td>
     </tr>
   </tbody>
 </table>
+
 
 ---
 
@@ -59,9 +54,7 @@
 > twitter: Luvaldev
 > page: luisvaldenegro.dev
 ````
-<!-- 
-![readme-bottom](https://github.com/user-attachments/assets/e02ffa17-ec39-4248-b8a8-e648492a5a6a)
- -->
+
 <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" alt="Github Stats" />
 
 ---
