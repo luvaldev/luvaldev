@@ -43,7 +43,7 @@
         <img height="48px" src="resources/Apps-Wireshark-icon.png">
       </td>
       <td width="25%" align="center">
-        <span>Wireshark </span><br><br><br>
+        <span>C </span><br><br><br>
         <img height="64px" src="https://skillicons.dev/icons?i=c">
       </td>
     </tr>
