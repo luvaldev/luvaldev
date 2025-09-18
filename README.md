@@ -7,7 +7,7 @@
 
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,bun,c,cpp,astro"/>
+    <img src="https://skillicons.dev/icons?i=java,bun,cpp,astro"/>
     <p>
     <img src="https://skillicons.dev/icons?i=vscode,figma,obsidian,photoshop,xd"/>
   </a>
@@ -30,17 +30,21 @@
 <table>
   <tbody>
     <tr valign="top">
-      <td width="33%" align="center">
+      <td width="25%" align="center">
         <span>Docker </span><br><br><br>
         <img height="64px" src="https://skillicons.dev/icons?i=docker">
       </td>
-      <td width="33%" align="center">
+      <td width="25%" align="center">
         <span>Linux </span><br><br><br>
         <img height="64px" src="https://skillicons.dev/icons?i=arch">
       </td>
-      <td width="33%" align="center">
+      <td width="25%" align="center">
         <span>Wireshark </span><br><br><br>
-        <img height="64px" src="resources/Apps-Wireshark-icon.png">
+        <img height="48px" src="resources/Apps-Wireshark-icon.png">
+      </td>
+      <td width="25%" align="center">
+        <span>Wireshark </span><br><br><br>
+        <img height="64px" src="https://skillicons.dev/icons?i=c">
       </td>
     </tr>
   </tbody>
