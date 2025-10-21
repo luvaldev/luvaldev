@@ -31,20 +31,24 @@
   <tbody>
     <tr valign="top">
       <td width="25%" align="center">
-        <span>Docker </span><br><br><br>
+        <span>Docker</span><br><br><br>
         <img height="64px" src="https://skillicons.dev/icons?i=docker">
       </td>
       <td width="25%" align="center">
-        <span>Linux </span><br><br><br>
+        <span>Linux</span><br><br><br>
         <img height="64px" src="https://skillicons.dev/icons?i=arch">
       </td>
       <td width="25%" align="center">
-        <span>Wireshark </span><br><br><br>
+        <span>Wireshark</span><br><br><br>
         <img height="48px" src="resources/Apps-Wireshark-icon.png">
       </td>
       <td width="25%" align="center">
-        <span>C </span><br><br><br>
-        <img height="64px" src="https://skillicons.dev/icons?i=c">
+        <span>Flutter</span><br><br><br>
+        <img height="48px" src="https://skillicons.dev/icons?i=flutter">
+      </td>
+      <td width="25%" align="center">
+        <span>Android</span><br><br><br>
+        <img height="64px" src="https://skillicons.dev/icons?i=androidstudio">
       </td>
     </tr>
   </tbody>
