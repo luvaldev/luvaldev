@@ -7,7 +7,7 @@
 
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,bun,cpp,astro"/>
+    <img src="https://skillicons.dev/icons?i=java,bun,cpp,astro,html,css,js,nodejs"/>
     <p>
     <img src="https://skillicons.dev/icons?i=vscode,figma,obsidian,photoshop,xd"/>
   </a>
@@ -18,7 +18,8 @@
 
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,nodejs"/>
+    <img src="https://skillicons.dev/icons?i=docker,arch"/>
+    <img height="48px" src="resources/Apps-Wireshark-icon.png">
   </a>
 </p>
 
@@ -31,24 +32,16 @@
   <tbody>
     <tr valign="top">
       <td width="25%" align="center">
-        <span>Docker</span><br><br><br>
-        <img height="64px" src="https://skillicons.dev/icons?i=docker">
-      </td>
-      <td width="25%" align="center">
-        <span>Linux</span><br><br><br>
-        <img height="64px" src="https://skillicons.dev/icons?i=arch">
-      </td>
-      <td width="25%" align="center">
-        <span>Wireshark</span><br><br><br>
-        <img height="48px" src="resources/Apps-Wireshark-icon.png">
-      </td>
-      <td width="25%" align="center">
         <span>Flutter</span><br><br><br>
         <img height="48px" src="https://skillicons.dev/icons?i=flutter">
       </td>
       <td width="25%" align="center">
         <span>Android</span><br><br><br>
         <img height="64px" src="https://skillicons.dev/icons?i=androidstudio">
+      </td>
+      <td width="25%" align="center">
+        <span>FireBase</span><br><br><br>
+        <img height="64px" src="https://skillicons.dev/icons?i=firebase">
       </td>
     </tr>
   </tbody>
