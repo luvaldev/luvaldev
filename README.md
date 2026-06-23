@@ -32,22 +32,23 @@
 ### 📕 Currently I'm learning:
 
 <table>
-  <tbody>
-    <tr valign="top">
-      <td width="25%" align="center">
-        <span>Flutter</span><br><br><br>
-        <img height="48px" src="https://skillicons.dev/icons?i=flutter">
-      </td>
-      <td width="25%" align="center">
-        <span>Android</span><br><br><br>
-        <img height="64px" src="https://skillicons.dev/icons?i=androidstudio">
-      </td>
-      <td width="25%" align="center">
-        <span>FireBase</span><br><br><br>
-        <img height="64px" src="https://skillicons.dev/icons?i=firebase">
-      </td>
-    </tr>
-  </tbody>
+  <tr>
+    <td align="center" width="200">
+      <img src="https://skillicons.dev/icons?i=flutter" width="50" />
+      <br/><br/>
+      <b>Flutter</b>
+    </td>
+    <td align="center" width="200">
+      <img src="https://skillicons.dev/icons?i=androidstudio" width="50" />
+      <br/><br/>
+      <b>Android</b>
+    </td>
+    <td align="center" width="200">
+      <img src="https://skillicons.dev/icons?i=firebase" width="50" />
+      <br/><br/>
+      <b>Firebase</b>
+    </td>
+  </tr>
 </table>
 
 ---
