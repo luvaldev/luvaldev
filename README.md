@@ -9,10 +9,10 @@
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=java,bun,cpp,astro,html,css,js,nodejs,ts,python,dart"/>
     <br><br>
-    <img src="https://skillicons.dev/icons?i=nextjs,react,tailwind,flutter,androidstudio,express"/>
+    <img src="https://skillicons.dev/icons?i=nextjs,react,tailwind,flutter,androidstudio,express,postgres,prisma,supabase,docker,linux,arch,git,firebase"/>
     <br><br>
-    <img src="https://skillicons.dev/icons?i=postgres,prisma,supabase,docker,linux,arch,git,firebase"/>
-    <br><br>
+    <!--<img src="https://skillicons.dev/icons?i=postgres,prisma,supabase,docker,linux,arch,git,firebase"/>
+    <br><br> -->
     <img src="https://skillicons.dev/icons?i=vscode,figma,obsidian,photoshop,xd"/>
   </a>
 </p>
@@ -30,26 +30,27 @@
 ---
 
 ### 📕 Currently I'm learning:
-
-<table>
-  <tr>
-    <td align="center" width="200">
-      <img src="https://skillicons.dev/icons?i=flutter" width="50" />
-      <br/><br/>
-      <b>Flutter</b>
-    </td>
-    <td align="center" width="200">
-      <img src="https://skillicons.dev/icons?i=androidstudio" width="50" />
-      <br/><br/>
-      <b>Android</b>
-    </td>
-    <td align="center" width="200">
-      <img src="https://skillicons.dev/icons?i=firebase" width="50" />
-      <br/><br/>
-      <b>Firebase</b>
-    </td>
-  </tr>
-</table>
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" width="200">
+        <img src="https://skillicons.dev/icons?i=flutter" width="50" />
+        <br/><br/>
+        <b>Flutter</b>
+      </td>
+      <td align="center" width="200">
+        <img src="https://skillicons.dev/icons?i=androidstudio" width="50" />
+        <br/><br/>
+        <b>Android</b>
+      </td>
+      <td align="center" width="200">
+        <img src="https://skillicons.dev/icons?i=firebase" width="50" />
+        <br/><br/>
+        <b>Firebase</b>
+      </td>
+    </tr>
+  </table>
+</div>
 
 ---
 
