@@ -1,91 +1,117 @@
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Ciao!%20I'm%20Luvaldev&fontSize=60&fontAlignY=35&animation=twinkling&desc=Software%20Developer%20%7C%20IoT%20%7C%20Cybersecurity&descAlignY=55&descAlign=62" />
-</div>
+<h2> Ciao ! <img src="https://github.com/user-attachments/assets/85207351-2e8c-41b9-8206-003d465ce90a" width="40"> Welcome to my Github profile! </h2> 
+<!-- 
+<img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">
+-->
 
-<div align="center">
-  <a href="https://portfolio-luvaldev.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-luvaldev.vercel.app-blue?style=for-the-badge&logo=vercel" alt="Portfolio" />
-  </a>
-  <a href="https://github.com/luvaldev" target="_blank">
-    <img src="https://img.shields.io/badge/Github-luvaldev-181717?style=for-the-badge&logo=github" alt="Github" />
-  </a>
-  <a href="https://instagram.com/lwchito" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-lwchito-E4405F?style=for-the-badge&logo=instagram" alt="Instagram" />
-  </a>
-  <a href="https://twitter.com/Luvaldev" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-Luvaldev-1DA1F2?style=for-the-badge&logo=twitter" alt="Twitter" />
-  </a>
-</div>
+````bash
+luvaldev@archlinux:~$ whoami
+Luvaldev
+luvaldev@archlinux:~$ cat focus.txt
+Software Architecture | Cybersecurity | Concurrent Programming
+````
 
-<br/>
+### :wrench: Skills:
 
-## 👨‍💻 About Me
-
-Welcome to my GitHub profile! I'm a passionate software developer and tech enthusiast with a focus on building robust systems, modern web applications, and embedded/IoT solutions. My interests span across **Software Architecture, Cybersecurity, and Concurrent Programming**.
-
-- 🔭 I’m currently working on full-stack applications using **Next.js, NestJS, and PostgreSQL**.
-- 🛠️ I have experience in low-level programming with **C++** and **IoT** devices like **ESP32**.
-- 🔒 Passionate about **Cybersecurity**, network traffic analysis (**Scapy**), and forensics.
-- 🎓 Constantly learning and building new things. Currently diving deeper into **Flutter** and **Android** development.
-
----
-
-## 🚀 Tech Stack
-
-### 💻 Languages
-<p align="left">
+<p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cpp,java,python,ts,js,dart,html,css" />
-  </a>
-</p>
-
-### 🌐 Web & Frontend
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nextjs,react,astro,tailwind,flutter,androidstudio" />
-  </a>
-</p>
-
-### ⚙️ Backend, Databases & Tools
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nodejs,nest,express,postgres,sqlite,prisma,supabase,docker,linux,arch,git" />
+    <img src="https://skillicons.dev/icons?i=java,bun,cpp,astro,html,css,js,nodejs,ts,python,dart"/>
+    <br><br>
+    <img src="https://skillicons.dev/icons?i=nextjs,react,tailwind,flutter,androidstudio,express,nest"/>
+    <br><br>
+    <img src="https://skillicons.dev/icons?i=postgres,sqlite,prisma,supabase,docker,linux,arch,git"/>
+    <br><br>
+    <img src="https://skillicons.dev/icons?i=vscode,figma,obsidian,photoshop,xd"/>
   </a>
 </p>
 
 ---
+### :wrench: Recent:
 
-## 🏆 Featured Projects
+<p>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=docker,arch"/>
+    <img height="48px" src="resources/Apps-Wireshark-icon.png">
+  </a>
+</p>
 
-| Project | Description | Tech Stack |
-|---------|-------------|------------|
-| 🎓 **[CampusSwap](https://github.com/luvaldev/CampusSwap)** | SaaS platform for university students to safely share study materials. | `Next.js`, `NestJS`, `PostgreSQL` |
-| 🚴 **[Cercasco](https://github.com/luvaldev/cercasco)** | Smart rear vehicle detection system for cyclists with haptic & visual alerts. | `Flutter`, `C++`, `ESP32`, `IoT` |
-| 🏗️ **[Pulso Maq](https://github.com/luvaldev/pulso-maq)** | SaaS for heavy machinery management and real-time GPS tracking. | `Next.js`, `React`, `Supabase` |
-| 🔒 **[Email-Infra-Forensics](https://github.com/luvaldev/Forensic-Email-Marketing-Analyzer)** | Forensic analysis of email infrastructure to combat phishing/spoofing. | `Python`, `Regex`, `Scapy` |
-| 🎰 **[Casino Platform](https://github.com/luvaldev/casino-management-platform)** | RESTful API casino management platform with JWT and SQLite. | `Node.js`, `Express`, `SQLite` |
-
----
-
-## 📈 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=luvaldev&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=luvaldev&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" width="48%" />
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=luvaldev&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" />
-</div>
 
 ---
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" alt="Github Stats" width="100%"/>
-</div>
+### 📕 Currently I'm learning:
 
-<div align="center">
-  <i>⭐️ From <a href="https://github.com/luvaldev">@luvaldev</a></i>
-</div>
+<table>
+  <tbody>
+    <tr valign="top">
+      <td width="25%" align="center">
+        <span>Flutter</span><br><br><br>
+        <img height="48px" src="https://skillicons.dev/icons?i=flutter">
+      </td>
+      <td width="25%" align="center">
+        <span>Android</span><br><br><br>
+        <img height="64px" src="https://skillicons.dev/icons?i=androidstudio">
+      </td>
+      <td width="25%" align="center">
+        <span>FireBase</span><br><br><br>
+        <img height="64px" src="https://skillicons.dev/icons?i=firebase">
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+---
+
+### 🚀 Featured Projects:
+
+<table>
+  <tbody>
+    <tr valign="top">
+      <td width="50%">
+        <b><a href="https://github.com/luvaldev/CampusSwap">CampusSwap</a></b>
+        <br/><br/>
+        <p>SaaS platform for university students to safely share study materials.</p>
+        <br/>
+        <code>Next.js</code> <code>NestJS</code> <code>PostgreSQL</code>
+      </td>
+      <td width="50%">
+        <b><a href="https://github.com/luvaldev/cercasco">Cercasco</a></b>
+        <br/><br/>
+        <p>Smart rear vehicle detection system for cyclists with haptic & visual alerts.</p>
+        <br/>
+        <code>Flutter</code> <code>C++</code> <code>ESP32</code> <code>IoT</code>
+      </td>
+    </tr>
+    <tr valign="top">
+      <td width="50%">
+        <b><a href="https://github.com/luvaldev/pulso-maq">Pulso Maq</a></b>
+        <br/><br/>
+        <p>SaaS for heavy machinery management and real-time GPS tracking.</p>
+        <br/>
+        <code>Next.js</code> <code>React</code> <code>Supabase</code>
+      </td>
+      <td width="50%">
+        <b><a href="https://github.com/luvaldev/Forensic-Email-Marketing-Analyzer">Email-Infra-Forensics</a></b>
+        <br/><br/>
+        <p>Forensic analysis of email infrastructure to combat phishing/spoofing.</p>
+        <br/>
+        <code>Python</code> <code>Regex</code> <code>Scapy</code>
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+---
+
+### 🌐 Networks:
+
+````bash
+> help --contact
+> instagram: lwchito
+> github: luvaldev
+> twitter: Luvaldev
+> page: https://portfolio-luvaldev.vercel.app/
+````
+
+<img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" alt="Github Stats" />
+
+---
+⭐️ From [@luvaldev](https://github.com/luvaldev)
