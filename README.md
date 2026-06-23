@@ -11,7 +11,7 @@
     <br><br>
     <img src="https://skillicons.dev/icons?i=nextjs,react,tailwind,flutter,androidstudio,express"/>
     <br><br>
-    <img src="https://skillicons.dev/icons?i=postgres,prisma,supabase,docker,linux,arch,git"/>
+    <img src="https://skillicons.dev/icons?i=postgres,prisma,supabase,docker,linux,arch,git,firebase"/>
     <br><br>
     <img src="https://skillicons.dev/icons?i=vscode,figma,obsidian,photoshop,xd"/>
   </a>
@@ -82,7 +82,7 @@
         <h3><a href="https://github.com/luvaldev/Forensic-Email-Marketing-Analyzer">🔒 Email Forensics</a></h3>
         <p>Forensic analysis of email infrastructure to combat phishing/spoofing.</p>
         <br/>
-        <img src="https://skillicons.dev/icons?i=python,regex,scipy,scikitlearn" height="30" />
+        <img src="https://skillicons.dev/icons?i=python,regex,react,tailwind,ts" height="30" />
       </td>
     </tr>
   </table>
