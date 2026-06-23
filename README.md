@@ -3,22 +3,15 @@
 <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">
 -->
 
-````bash
-luvaldev@archlinux:~$ whoami
-Luvaldev
-luvaldev@archlinux:~$ cat focus.txt
-Software Architecture | Cybersecurity | Concurrent Programming
-````
-
 ### :wrench: Skills:
 
 <p>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=java,bun,cpp,astro,html,css,js,nodejs,ts,python,dart"/>
     <br><br>
-    <img src="https://skillicons.dev/icons?i=nextjs,react,tailwind,flutter,androidstudio,express,nest"/>
+    <img src="https://skillicons.dev/icons?i=nextjs,react,tailwind,flutter,androidstudio,express"/>
     <br><br>
-    <img src="https://skillicons.dev/icons?i=postgres,sqlite,prisma,supabase,docker,linux,arch,git"/>
+    <img src="https://skillicons.dev/icons?i=postgres,prisma,supabase,docker,linux,arch,git"/>
     <br><br>
     <img src="https://skillicons.dev/icons?i=vscode,figma,obsidian,photoshop,xd"/>
   </a>
@@ -29,8 +22,7 @@ Software Architecture | Cybersecurity | Concurrent Programming
 
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=docker,arch"/>
-    <img height="48px" src="resources/Apps-Wireshark-icon.png">
+    <img src="https://skillicons.dev/icons?i=react,ts,tailwind,nextjs"/>
   </a>
 </p>
 
@@ -62,42 +54,38 @@ Software Architecture | Cybersecurity | Concurrent Programming
 
 ### 🚀 Featured Projects:
 
-<table>
-  <tbody>
-    <tr valign="top">
-      <td width="50%">
-        <b><a href="https://github.com/luvaldev/CampusSwap">CampusSwap</a></b>
-        <br/><br/>
+<div align="center">
+  <table>
+    <tr>
+      <td width="333" align="left">
+        <h3><a href="https://github.com/luvaldev/CampusSwap">🎓 CampusSwap</a></h3>
         <p>SaaS platform for university students to safely share study materials.</p>
         <br/>
-        <code>Next.js</code> <code>NestJS</code> <code>PostgreSQL</code>
+        <img src="https://skillicons.dev/icons?i=nextjs,react,postgres,tailwind" height="30" />
       </td>
-      <td width="50%">
-        <b><a href="https://github.com/luvaldev/cercasco">Cercasco</a></b>
-        <br/><br/>
+      <td width="333" align="left">
+        <h3><a href="https://github.com/luvaldev/cercasco">🚴 Cercasco</a></h3>
         <p>Smart rear vehicle detection system for cyclists with haptic & visual alerts.</p>
         <br/>
-        <code>Flutter</code> <code>C++</code> <code>ESP32</code> <code>IoT</code>
+        <img src="https://skillicons.dev/icons?i=flutter,cpp" height="30" />
       </td>
     </tr>
-    <tr valign="top">
-      <td width="50%">
-        <b><a href="https://github.com/luvaldev/pulso-maq">Pulso Maq</a></b>
-        <br/><br/>
+    <tr>
+      <td width="333" align="left">
+        <h3><a href="https://github.com/luvaldev/pulso-maq">🏗️ Pulso Maq</a></h3>
         <p>SaaS for heavy machinery management and real-time GPS tracking.</p>
         <br/>
-        <code>Next.js</code> <code>React</code> <code>Supabase</code>
+        <img src="https://skillicons.dev/icons?i=react,supabase" height="30" />
       </td>
-      <td width="50%">
-        <b><a href="https://github.com/luvaldev/Forensic-Email-Marketing-Analyzer">Email-Infra-Forensics</a></b>
-        <br/><br/>
+      <td width="333" align="left">
+        <h3><a href="https://github.com/luvaldev/Forensic-Email-Marketing-Analyzer">🔒 Email Forensics</a></h3>
         <p>Forensic analysis of email infrastructure to combat phishing/spoofing.</p>
         <br/>
-        <code>Python</code> <code>Regex</code> <code>Scapy</code>
+        <img src="https://skillicons.dev/icons?i=python" height="30" />
       </td>
     </tr>
-  </tbody>
-</table>
+  </table>
+</div>
 
 ---
 
@@ -108,7 +96,7 @@ Software Architecture | Cybersecurity | Concurrent Programming
 > instagram: lwchito
 > github: luvaldev
 > twitter: Luvaldev
-> page: https://portfolio-luvaldev.vercel.app/
+> page: https://portfolio-luvalos.vercel.app
 ````
 
 <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" alt="Github Stats" />
