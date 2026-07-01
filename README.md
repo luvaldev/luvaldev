@@ -98,7 +98,7 @@
 > instagram: lwchito
 > github: luvaldev
 > twitter: Luvaldev
-> page: https://portfolio-luvalos.vercel.app
+> page: https://portfolio-luval-os.vercel.app
 ````
 
 <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" alt="Github Stats" />
