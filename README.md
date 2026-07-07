@@ -91,7 +91,7 @@
 
 ---
 
-### 🏢 My Organizations:
+### <img src="https://raw.githubusercontent.com/luvaldev/luvaldev/main/resources/icon-orgs.svg" width="22" height="22" valign="middle" /> My Organizations:
 
 <div align="center">
   <table>
