@@ -91,6 +91,27 @@
 
 ---
 
+### 🏢 My Organizations:
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center">
+        <a href="https://github.com/Email-Infra-Forensics">
+          <img src="https://raw.githubusercontent.com/luvaldev/luvaldev/main/resources/org-emailtrust.svg" width="350" alt="Email-Infra-Forensics" />
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://github.com/PternaSec">
+          <img src="https://raw.githubusercontent.com/luvaldev/luvaldev/main/resources/org-pternasec.svg" width="350" alt="PternaSec" />
+        </a>
+      </td>
+    </tr>
+  </table>
+</div>
+
+---
+
 ### 🌐 Networks:
 
 ````bash
