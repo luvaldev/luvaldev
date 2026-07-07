@@ -3,7 +3,7 @@
 <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">
 -->
 
-### :wrench: Skills:
+### <img src="https://raw.githubusercontent.com/luvaldev/luvaldev/main/resources/icon-skills.svg" width="22" height="22" valign="middle" /> Skills:
 
 <p>
   <a href="https://skillicons.dev">
@@ -18,7 +18,7 @@
 </p>
 
 ---
-### :wrench: Recent:
+### <img src="https://raw.githubusercontent.com/luvaldev/luvaldev/main/resources/icon-recent.svg" width="22" height="22" valign="middle" /> Recent:
 
 <p>
   <a href="https://skillicons.dev">
@@ -29,7 +29,7 @@
 
 ---
 
-### 📕 Currently I'm learning:
+### <img src="https://raw.githubusercontent.com/luvaldev/luvaldev/main/resources/icon-learning.svg" width="22" height="22" valign="middle" /> Currently I'm learning:
 <div align="center">
   <table>
     <tr>
@@ -54,7 +54,7 @@
 
 ---
 
-### 🚀 Featured Projects:
+### <img src="https://raw.githubusercontent.com/luvaldev/luvaldev/main/resources/icon-projects.svg" width="22" height="22" valign="middle" /> Featured Projects:
 
 <div align="center">
   <table>
@@ -112,7 +112,7 @@
 
 ---
 
-### 🌐 Networks:
+### <img src="https://raw.githubusercontent.com/luvaldev/luvaldev/main/resources/icon-networks.svg" width="22" height="22" valign="middle" /> Networks:
 
 ````bash
 > help --contact
