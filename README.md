@@ -60,13 +60,13 @@
   <table>
     <tr>
       <td width="333" align="left">
-        <h3><a href="https://github.com/luvaldev/CampusSwap">🎓 CampusSwap</a></h3>
+        <h3><a href="https://github.com/luvaldev/CampusSwap"><img src="resources/icon-campusswap.svg" width="24" height="24" valign="middle" /> CampusSwap</a></h3>
         <p>SaaS platform for university students to safely share study materials.</p>
         <br/>
         <img src="https://skillicons.dev/icons?i=nextjs,react,postgres,tailwind" height="30" />
       </td>
       <td width="333" align="left">
-        <h3><a href="https://github.com/luvaldev/cercasco">🚴 Cercasco</a></h3>
+        <h3><a href="https://github.com/luvaldev/cercasco"><img src="resources/icon-cercasco.svg" width="24" height="24" valign="middle" /> Cercasco</a></h3>
         <p>Smart rear vehicle detection system for cyclists with haptic & visual alerts.</p>
         <br/>
         <img src="https://skillicons.dev/icons?i=flutter,dart,cpp,arduino,java,blender" height="30" />
@@ -74,13 +74,13 @@
     </tr>
     <tr>
       <td width="333" align="left">
-        <h3><a href="https://github.com/luvaldev/pulso-maq">🏗️ Pulso Maq</a></h3>
+        <h3><a href="https://github.com/luvaldev/pulso-maq"><img src="resources/icon-pulsomaq.svg" width="24" height="24" valign="middle" /> Pulso Maq</a></h3>
         <p>SaaS for heavy machinery management and real-time GPS tracking.</p>
         <br/>
         <img src="https://skillicons.dev/icons?i=postgres,prisma,supabase,react,tailwind,ts,nextjs" height="30" />
       </td>
       <td width="333" align="left">
-        <h3><a href="https://github.com/Email-Infra-Forensics">🔒 Email Forensics</a></h3>
+        <h3><a href="https://github.com/Email-Infra-Forensics"><img src="resources/icon-emailforensics.svg" width="24" height="24" valign="middle" /> Email Forensics</a></h3>
         <p>Forensic analysis of email infrastructure to combat phishing/spoofing.</p>
         <br/>
         <img src="https://skillicons.dev/icons?i=python,regex,react,tailwind,ts" height="30" />
