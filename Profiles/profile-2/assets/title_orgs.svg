@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 50" width="100%">
+  <style>
+    .bg { fill: #161b22; stroke: #30363d; stroke-width: 1; rx: 8; }
+    .title { font-family: 'Fira Code', -apple-system, monospace; font-size: 16px; fill: #56d364; font-weight: 600; text-anchor: middle; }
+    .folder { fill: #38bdf8; }
+  </style>
+  <rect x="1" y="1" width="798" height="48" class="bg" />
+  <circle cx="25" cy="25" r="6" fill="#ff5f56" />
+  <circle cx="45" cy="25" r="6" fill="#ffbd2e" />
+  <circle cx="65" cy="25" r="6" fill="#27c93f" />
+  <text x="400" y="30" class="title">~/luvaldev/<tspan class="folder">organizations</tspan></text>
+</svg>

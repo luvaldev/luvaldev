@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 380 210" width="100%">
+  <style>
+    .bg { fill: #0d1117; stroke: #30363d; stroke-width: 1; rx: 6; }
+    .text { font-family: 'Fira Code', 'JetBrains Mono', monospace; font-size: 14px; }
+  </style>
+  <rect x="1" y="1" width="378" height="208" class="bg" />
+  <g transform="translate(0, 0)">
+    <text x="20" y="40" class="text" fill="#8b949e">~ $ <tspan fill="#56d364" font-weight="600">cat infra.yml</tspan></text>
+    <text x="20" y="65" class="text"><tspan fill="#ec4899">database</tspan><tspan fill="#c9d1d9">:</tspan></text>
+    <text x="20" y="90" class="text"><tspan fill="#8b949e">  - </tspan><tspan fill="#38bdf8">PostgreSQL, Prisma</tspan></text>
+    <text x="20" y="115" class="text"><tspan fill="#8b949e">  - </tspan><tspan fill="#38bdf8">Supabase, Firebase</tspan></text>
+    <text x="20" y="140" class="text"><tspan fill="#ec4899">devops</tspan><tspan fill="#c9d1d9">:</tspan></text>
+    <text x="20" y="165" class="text"><tspan fill="#8b949e">  - </tspan><tspan fill="#38bdf8">Docker, Linux, Arch</tspan></text>
+    <text x="20" y="190" class="text"><tspan fill="#ec4899">vcs</tspan><tspan fill="#c9d1d9">:</tspan></text>
+    <text x="20" y="215" class="text"><tspan fill="#8b949e">  - </tspan><tspan fill="#38bdf8">Git</tspan></text>
+  </g>
+</svg>

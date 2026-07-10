@@ -1,0 +1,86 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 300" width="100%">
+  <defs>
+    <linearGradient id="grad-light" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#ffffff" />
+      <stop offset="100%" stop-color="#f1f5f9" />
+    </linearGradient>
+    <linearGradient id="grad-dark" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0d1117" />
+      <stop offset="100%" stop-color="#161b22" />
+    </linearGradient>
+    
+    <linearGradient id="text-gradient-light" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#2563eb" />
+      <stop offset="100%" stop-color="#9333ea" />
+    </linearGradient>
+    <linearGradient id="text-gradient-dark" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#38bdf8" />
+      <stop offset="100%" stop-color="#c084fc" />
+    </linearGradient>
+
+    <linearGradient id="accent" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#ec4899" />
+      <stop offset="100%" stop-color="#f43f5e" />
+    </linearGradient>
+
+    <style>
+      .bg-rect { fill: url(#grad-light); stroke: #e2e8f0; stroke-width: 1; }
+      .title { font-family: 'Segoe UI', -apple-system, sans-serif; font-size: 54px; font-weight: 800; fill: url(#text-gradient-light); letter-spacing: -1px; }
+      .subtitle { font-family: 'Segoe UI', -apple-system, sans-serif; font-size: 20px; font-weight: 500; fill: #475569; }
+      .cmd-text { font-family: 'Fira Code', 'JetBrains Mono', monospace; font-size: 15px; fill: #64748b; }
+      .cmd-hl { fill: #059669; font-weight: 600; }
+      .orb-stroke { stroke: url(#text-gradient-light); }
+      .orb-fill { fill: url(#text-gradient-light); }
+      
+      @media (prefers-color-scheme: dark) {
+        .bg-rect { fill: url(#grad-dark); stroke: #30363d; }
+        .title { fill: url(#text-gradient-dark); }
+        .subtitle { fill: #8b949e; }
+        .cmd-text { fill: #8b949e; }
+        .cmd-hl { fill: #56d364; }
+        .orb-stroke { stroke: url(#text-gradient-dark); }
+        .orb-fill { fill: url(#text-gradient-dark); }
+      }
+
+      @keyframes float1 { 0%, 100% { transform: translateY(0px) rotate(0deg); } 50% { transform: translateY(-15px) rotate(5deg); } }
+      @keyframes float2 { 0%, 100% { transform: translateY(0px) rotate(0deg); } 50% { transform: translateY(10px) rotate(-5deg); } }
+      @keyframes pulse-anim { 0%, 100% { opacity: 1; } 50% { opacity: 0; } }
+      
+      .f1 { animation: float1 6s ease-in-out infinite; transform-origin: center; }
+      .f2 { animation: float2 8s ease-in-out infinite; transform-origin: center; }
+      .pulse { animation: pulse-anim 1.5s infinite step-end; }
+    </style>
+  </defs>
+
+  <!-- Background -->
+  <rect x="2" y="2" width="796" height="296" rx="16" class="bg-rect" />
+
+  <!-- Window controls -->
+
+  <!-- Left Content -->
+  <g transform="translate(45, 110)">
+    <text x="0" y="0" class="title">Luval <tspan fill="url(#accent)">.</tspan></text>
+    <text x="2" y="35" class="subtitle">Software Engineer &amp; CyberSec Enthusiast</text>
+  </g>
+
+  <!-- Terminal Content -->
+  <g transform="translate(47, 195)">
+    <text x="0" y="0" class="cmd-text">~ $ <tspan class="cmd-hl">whoami</tspan></text>
+    <text x="0" y="25" class="cmd-text">> building SaaS, Mobile Apps &amp; breaking emails</text>
+    <text x="0" y="50" class="cmd-text">~ $ <tspan class="cmd-hl">execute</tspan> impact.sh <tspan class="pulse" fill="url(#accent)">█</tspan></text>
+  </g>
+
+  <!-- Right Decorative Abstract Orbs -->
+  <g transform="translate(620, 150)">
+    <!-- Orbiting rings -->
+    <circle cx="0" cy="0" r="80" fill="none" class="orb-stroke f1" stroke-width="2" stroke-dasharray="10 15" opacity="0.4" />
+    <circle cx="0" cy="0" r="55" fill="none" class="orb-stroke f2" stroke-width="2" stroke-dasharray="20 10" opacity="0.6" />
+    
+    <!-- Central core -->
+    <circle cx="0" cy="0" r="25" class="orb-fill" opacity="0.8" />
+    
+    <!-- Decorative floating dots -->
+    <circle cx="40" cy="-60" r="4" fill="url(#accent)" class="f2" />
+    <circle cx="-60" cy="30" r="6" fill="url(#accent)" class="f1" />
+  </g>
+</svg>

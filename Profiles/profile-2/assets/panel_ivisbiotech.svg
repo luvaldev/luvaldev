@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 380 190" width="100%">
+  <style>
+    .bg { fill: #0d1117; stroke: #30363d; stroke-width: 1; rx: 6; }
+    .title { font-family: -apple-system, sans-serif; font-size: 12px; fill: #8b949e; font-weight: 600; text-anchor: middle; }
+    .text { font-family: 'Fira Code', 'JetBrains Mono', monospace; font-size: 14px; }
+    @keyframes pulse { 0%, 100% { opacity: 1; } 50% { opacity: 0; } }
+    .pulse { animation: pulse 1.5s infinite step-end; }
+  </style>
+  <rect x="1" y="1" width="378" height="188" class="bg" />
+  
+  <text x="190.0" y="20" class="title">ivisbiotech.sh</text>
+  <path d="M 0 30 L 380 30" stroke="#30363d" stroke-width="1" stroke-dasharray="4 4" />
+  
+  <g transform="translate(0, 0)">
+    <text x="20" y="55" class="text" fill="#8b949e">~ $ <tspan fill="#56d364" font-weight="600">./describe IvisBiotech</tspan></text>
+    <text x="20" y="80" class="text" fill="#c9d1d9">Biotechnology software solutions</text>
+    <text x="20" y="105" class="text" fill="#c9d1d9">and medical tools platform.</text>
+    <text x="20" y="130" class="text"><tspan fill="#8b949e">[Tech]: </tspan><tspan fill="#38bdf8">Python, React</tspan></text>
+    <text x="20" y="155" class="text" fill="#8b949e">~ $ <tspan fill="#ec4899" class="pulse">█</tspan></text>
+  </g>
+</svg>
