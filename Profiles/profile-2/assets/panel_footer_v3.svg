@@ -1,0 +1,56 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 150" width="100%">
+  <defs>
+    <linearGradient id="pg" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#f47067"/>
+      <stop offset="0.5" stop-color="#d2a8ff"/>
+      <stop offset="1" stop-color="#6cb6ff"/>
+    </linearGradient>
+  </defs>
+  <style>
+    .bg { fill: #0d1117; stroke: #30363d; stroke-width: 1; rx: 6; }
+    .text { font-family: 'Fira Code', 'JetBrains Mono', 'Courier New', monospace; font-size: 15px; font-weight: 600; white-space: pre; }
+    
+    .wave-front { fill: url(#pg); animation: move-fw 3.5s linear infinite; }
+    .wave-back { fill: url(#pg); animation: move-bw 5s linear infinite; opacity: 0.4; }
+    
+    @keyframes move-fw { 0% { transform: translateX(0px); } 100% { transform: translateX(-288px); } }
+    @keyframes move-bw { 0% { transform: translateX(0px); } 100% { transform: translateX(-216px); } }
+  </style>
+  <rect x="1" y="1" width="798" height="148" class="bg" />
+  
+  <g transform="translate(0, 0)">
+    <text x="20" y="40" class="text" fill="#8b949e">~ $ <tspan fill="#56d364" font-weight="600">./render_wave.sh --style=neofetch --animate</tspan></text>
+  </g>
+  
+  <clipPath id="clip">
+    <rect x="1" y="50" width="798" height="100" rx="6" />
+  </clipPath>
+  
+  <g clip-path="url(#clip)">
+    <!-- Back Wave -->
+    <g class="wave-back">
+      <text x="0" y="55" class="text" textLength="1728" lengthAdjust="spacingAndGlyphs" xml:space="preserve">        .`.                     .`.                     .`.                     .`.                     .`.                     .`.                     .`.                     .`.             </text>
+      <text x="0" y="67" class="text" textLength="1728" lengthAdjust="spacingAndGlyphs" xml:space="preserve">      .`.::.:                 .`.::.:                 .`.::.:                 .`.::.:                 .`.::.:                 .`.::.:                 .`.::.:                 .`.::.:           </text>
+      <text x="0" y="79" class="text" textLength="1728" lengthAdjust="spacingAndGlyphs" xml:space="preserve">    `'!:`.` :*;             `'!:`.` :*;             `'!:`.` :*;             `'!:`.` :*;             `'!:`.` :*;             `'!:`.` :*;             `'!:`.` :*;             `'!:`.` :*;         </text>
+      <text x="0" y="91" class="text" textLength="1728" lengthAdjust="spacingAndGlyphs" xml:space="preserve">  ;.;! '!;:'':.*          ;.;! '!;:'':.*          ;.;! '!;:'':.*          ;.;! '!;:'':.*          ;.;! '!;:'':.*          ;.;! '!;:'':.*          ;.;! '!;:'':.*          ;.;! '!;:'':.*        </text>
+      <text x="0" y="103" class="text" textLength="1728" lengthAdjust="spacingAndGlyphs" xml:space="preserve"> .!::*. '**;;:*;!        .!::*. '**;;:*;!        .!::*. '**;;:*;!        .!::*. '**;;:*;!        .!::*. '**;;:*;!        .!::*. '**;;:*;!        .!::*. '**;;:*;!        .!::*. '**;;:*;!       </text>
+      <text x="0" y="115" class="text" textLength="1728" lengthAdjust="spacingAndGlyphs" xml:space="preserve"> .';''!#W!**!**;:;       .';''!#W!**!**;:;       .';''!#W!**!**;:;       .';''!#W!**!**;:;       .';''!#W!**!**;:;       .';''!#W!**!**;:;       .';''!#W!**!**;:;       .';''!#W!**!**;:;      </text>
+      <text x="0" y="127" class="text" textLength="1728" lengthAdjust="spacingAndGlyphs" xml:space="preserve"> :!M@$****WWMM#!;:`      :!M@$****WWMM#!;:`      :!M@$****WWMM#!;:`      :!M@$****WWMM#!;:`      :!M@$****WWMM#!;:`      :!M@$****WWMM#!;:`      :!M@$****WWMM#!;:`      :!M@$****WWMM#!;:`     </text>
+      <text x="0" y="139" class="text" textLength="1728" lengthAdjust="spacingAndGlyphs" xml:space="preserve">$@$*W:'!!!*#MMMM@M*     $@$*W:'!!!*#MMMM@M*     $@$*W:'!!!*#MMMM@M*     $@$*W:'!!!*#MMMM@M*     $@$*W:'!!!*#MMMM@M*     $@$*W:'!!!*#MMMM@M*     $@$*W:'!!!*#MMMM@M*     $@$*W:'!!!*#MMMM@M*     </text>
+      <text x="0" y="151" class="text" textLength="1728" lengthAdjust="spacingAndGlyphs" xml:space="preserve">@@$@@@W@@@@M@@@@@@@     @@$@@@W@@@@M@@@@@@@     @@$@@@W@@@@M@@@@@@@     @@$@@@W@@@@M@@@@@@@     @@$@@@W@@@@M@@@@@@@     @@$@@@W@@@@M@@@@@@@     @@$@@@W@@@@M@@@@@@@     @@$@@@W@@@@M@@@@@@@     </text>
+    </g>
+    
+    <!-- Front Wave -->
+    <g class="wave-front">
+      <text x="0" y="65" class="text" textLength="1728" lengthAdjust="spacingAndGlyphs" xml:space="preserve">            .`.                             .`.                             .`.                             .`.                             .`.                             .`.                 </text>
+      <text x="0" y="77" class="text" textLength="1728" lengthAdjust="spacingAndGlyphs" xml:space="preserve">         .`.::.:''`.                     .`.::.:''`.                     .`.::.:''`.                     .`.::.:''`.                     .`.::.:''`.                     .`.::.:''`.            </text>
+      <text x="0" y="89" class="text" textLength="1728" lengthAdjust="spacingAndGlyphs" xml:space="preserve">       `'!:`.` :*;;'`..                `'!:`.` :*;;'`..                `'!:`.` :*;;'`..                `'!:`.` :*;;'`..                `'!:`.` :*;;'`..                `'!:`.` :*;;'`..         </text>
+      <text x="0" y="101" class="text" textLength="1728" lengthAdjust="spacingAndGlyphs" xml:space="preserve">     ;.;! '!;:'':.*#'::';;           ;.;! '!;:'':.*#'::';;           ;.;! '!;:'':.*#'::';;           ;.;! '!;:'':.*#'::';;           ;.;! '!;:'':.*#'::';;           ;.;! '!;:'':.*#'::';;      </text>
+      <text x="0" y="113" class="text" textLength="1728" lengthAdjust="spacingAndGlyphs" xml:space="preserve">   .!::*. '**;;:*;!#!*!*W#!:'      .!::*. '**;;:*;!#!*!*W#!:'      .!::*. '**;;:*;!#!*!*W#!:'      .!::*. '**;;:*;!#!*!*W#!:'      .!::*. '**;;:*;!#!*!*W#!:'      .!::*. '**;;:*;!#!*!*W#!:'   </text>
+      <text x="0" y="125" class="text" textLength="1728" lengthAdjust="spacingAndGlyphs" xml:space="preserve">  .';''!#W!**!**;:;::''` .. ':;*  .';''!#W!**!**;:;::''` .. ':;*  .';''!#W!**!**;:;::''` .. ':;*  .';''!#W!**!**;:;::''` .. ':;*  .';''!#W!**!**;:;::''` .. ':;*  .';''!#W!**!**;:;::''` .. ':;*</text>
+      <text x="0" y="137" class="text" textLength="1728" lengthAdjust="spacingAndGlyphs" xml:space="preserve">  :!M@$****WWMM#!;:`!M#;:!#**!**  :!M@$****WWMM#!;:`!M#;:!#**!**  :!M@$****WWMM#!;:`!M#;:!#**!**  :!M@$****WWMM#!;:`!M#;:!#**!**  :!M@$****WWMM#!;:`!M#;:!#**!**  :!M@$****WWMM#!;:`!M#;:!#**!**</text>
+      <text x="0" y="149" class="text" textLength="1728" lengthAdjust="spacingAndGlyphs" xml:space="preserve"> $@$*W:'!!!*#MMMM@M*WM  ;W*'#$MW $@$*W:'!!!*#MMMM@M*WM  ;W*'#$MW $@$*W:'!!!*#MMMM@M*WM  ;W*'#$MW $@$*W:'!!!*#MMMM@M*WM  ;W*'#$MW $@$*W:'!!!*#MMMM@M*WM  ;W*'#$MW $@$*W:'!!!*#MMMM@M*WM  ;W*'#$MW</text>
+      <text x="0" y="161" class="text" textLength="1728" lengthAdjust="spacingAndGlyphs" xml:space="preserve">W@@$@@@W@@@@M@@@@@@@@MW@@@@@@@M@W@@$@@@W@@@@M@@@@@@@@MW@@@@@@@M@W@@$@@@W@@@@M@@@@@@@@MW@@@@@@@M@W@@$@@@W@@@@M@@@@@@@@MW@@@@@@@M@W@@$@@@W@@@@M@@@@@@@@MW@@@@@@@M@W@@$@@@W@@@@M@@@@@@@@MW@@@@@@@M@</text>
+    </g>
+  </g>
+</svg>

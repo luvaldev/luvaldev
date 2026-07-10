@@ -61,7 +61,7 @@
 <br/>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" alt="Github Stats" />
+  <img src="./assets/panel_footer_v3.svg" width="100%" alt="ASCII Wave" />
 </p>
 
 <p>

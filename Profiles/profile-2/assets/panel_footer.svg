@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 150" width="100%">
+  <style>
+    .bg { fill: #0d1117; stroke: #30363d; stroke-width: 1; rx: 6; }
+    .text { font-family: 'Fira Code', 'JetBrains Mono', monospace; font-size: 15px; white-space: pre; font-weight: 500; }
+    .wave1 { fill: #38bdf8; }
+    .wave2 { fill: #818cf8; }
+    .wave3 { fill: #c084fc; }
+    @keyframes move {
+      0% { transform: translateX(0); }
+      100% { transform: translateX(-40px); }
+    }
+  </style>
+  <rect x="1" y="1" width="798" height="148" class="bg" />
+  <g transform="translate(0, 0)">
+    <text x="20" y="40" class="text" fill="#8b949e">~ $ <tspan fill="#56d364" font-weight="600">./render_wave.sh --style=ascii</tspan></text>
+    <text x="20" y="80" class="text wave1">      ~*~.           .~*~.           .~*~.           .~*~.           .~*~.           .~*~.      </text>
+    <text x="20" y="105" class="text wave2">   _.-'   `'-._   _.-'   `'-._   _.-'   `'-._   _.-'   `'-._   _.-'   `'-._   _.-'   `'-._   _.</text>
+    <text x="20" y="130" class="text wave3">.-'            '-'            '-'            '-'            '-'            '-'            '-'  </text>
+  </g>
+</svg>
