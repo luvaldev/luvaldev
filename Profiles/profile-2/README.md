@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <a href="https://portfolio-luval-os.vercel.app"><img src="./assets/panel_net_portfolio.svg" width="49%" alt="Portfolio" /></a>
+  <a href="https://portfolio-luval-os.vercel.app"><img src="./assets/panel_net_portfolio_v3.svg" width="49%" alt="Portfolio" /></a>
   <a href="https://github.com/luvaldev"><img src="./assets/panel_net_github.svg" width="49%" alt="GitHub" /></a>
 </p>
 <p align="center">
@@ -39,12 +39,12 @@
 </p>
 
 <p align="center">
-  <img src="./assets/panel_tech_core.svg" width="49%" alt="Core Technologies" />
-  <img src="./assets/panel_tech_frameworks.svg" width="49%" alt="Frameworks" />
+  <img src="./assets/panel_tech_core_v2.svg" width="49%" alt="Core Technologies" />
+  <img src="./assets/panel_tech_frameworks_v2.svg" width="49%" alt="Frameworks" />
 </p>
 <p align="center">
-  <img src="./assets/panel_tech_backend.svg" width="49%" alt="Backend & Infrastructure" />
-  <img src="./assets/panel_tech_tools.svg" width="49%" alt="Tools & Design" />
+  <img src="./assets/panel_tech_backend_v3.svg" width="49%" alt="Backend &amp; Infrastructure" />
+  <img src="./assets/panel_tech_tools_v3.svg" width="49%" alt="Tools &amp; Design" />
 </p>
 
 <br/>

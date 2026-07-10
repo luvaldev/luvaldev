@@ -7,6 +7,6 @@
   <rect x="1" y="1" width="378" height="108" class="bg" />
   <g transform="translate(0, 0)">
     <text x="20" y="45" class="text" fill="#8b949e">~ $ <tspan fill="#56d364" font-weight="600">curl api/portfolio</tspan></text>
-    <text x="20" y="80" class="text link-hover"><tspan fill="#38bdf8">"portfolio"</tspan><tspan fill="#c9d1d9">: </tspan><tspan fill="#a5d6ff">"luval.dev"</tspan></text>
+    <text x="20" y="80" class="text link-hover"><tspan fill="#38bdf8">"portfolio"</tspan><tspan fill="#c9d1d9">: </tspan><tspan fill="#a5d6ff">"portfolio-luval-os"</tspan></text>
   </g>
 </svg>
