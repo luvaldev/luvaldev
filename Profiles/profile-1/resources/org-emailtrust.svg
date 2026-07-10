@@ -1,0 +1,47 @@
+<svg width="350" height="100" viewBox="0 0 350 100" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <style>
+    .title { font-family: 'Segoe UI', Ubuntu, sans-serif; font-weight: bold; font-size: 16px; fill: #ffffff; }
+    .desc { font-family: 'Segoe UI', Ubuntu, sans-serif; font-size: 12px; fill: #94a3b8; }
+    .org-tag { font-family: 'Segoe UI', Ubuntu, sans-serif; font-size: 10px; font-weight: bold; fill: #a78bfa; letter-spacing: 1px; }
+  </style>
+  
+  <!-- Card Background -->
+  <rect width="350" height="100" rx="12" fill="#0b0f19" stroke="#1e293b" stroke-width="1.5"/>
+  <rect x="1" y="1" width="348" height="98" rx="11" fill="url(#bg-gradient)" opacity="0.5"/>
+  
+  <!-- Glow Effect at the border -->
+  <rect x="0.75" y="0.75" width="348.5" height="98.5" rx="11.25" stroke="url(#border-gradient)" stroke-width="1.5" opacity="0.8"/>
+
+  <!-- Left Icon Area -->
+  <g transform="translate(20, 20)">
+    <!-- Outer circle/hexagon -->
+    <rect width="60" height="60" rx="10" fill="#151b2c" stroke="#312e81" stroke-width="1.5" />
+    
+    <!-- Shield Icon in SVG -->
+    <path d="M30 18 L18 23 V35 C18 42.5 30 47 30 47 C30 47 42 42.5 42 35 V23 L30 18 Z" fill="url(#shield-grad)" />
+    <!-- Checkmark inside shield -->
+    <path d="M26 32.5 L29 35.5 L34.5 30" stroke="#ffffff" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" />
+  </g>
+
+  <!-- Text Details -->
+  <text x="96" y="32" class="org-tag">ORGANIZATION</text>
+  <text x="96" y="52" class="title">Email-Infra-Forensics</text>
+  <text x="96" y="72" class="desc">Email Forensics &amp; Trust Auditing</text>
+
+  <!-- Gradients -->
+  <defs>
+    <linearGradient id="bg-gradient" x1="0" y1="0" x2="350" y2="100" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#1e1b4b" stop-opacity="0.2"/>
+      <stop offset="100%" stop-color="#020617" stop-opacity="0.8"/>
+    </linearGradient>
+    <linearGradient id="border-gradient" x1="0" y1="0" x2="350" y2="100" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#8b5cf6" stop-opacity="0.4"/>
+      <stop offset="50%" stop-color="#3b82f6" stop-opacity="0.1"/>
+      <stop offset="100%" stop-color="#d946ef" stop-opacity="0.4"/>
+    </linearGradient>
+    <linearGradient id="shield-grad" x1="18" y1="18" x2="42" y2="47" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#8b5cf6" />
+      <stop offset="100%" stop-color="#d946ef" />
+    </linearGradient>
+  </defs>
+</svg>
